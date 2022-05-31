@@ -14,6 +14,8 @@ This document contains an overview of the Locato project and product, Locato's i
 
 ### Frontend
 
+## User Documentation
+
 ## Business Analysis
 
 ## Conclusions
